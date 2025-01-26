@@ -5,7 +5,8 @@
 ## Установка
 
 1. Клонируйте репозиторий:
-   git clone https://github.com/ваш-username/telegram-bot-courses.git
+   ```bash
+   git clone https://github.com/Kaelon-sad/telegram-bot-courses.git
    cd telegram-bot-courses
 
 2. Установите зависимости:
@@ -16,3 +17,6 @@
 
 4. Запустите бота:
    python main.py
+
+
+  
